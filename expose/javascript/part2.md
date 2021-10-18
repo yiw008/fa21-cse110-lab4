@@ -33,9 +33,9 @@
 - E. ```false``` since ```true``` maps to ```1```
 - F. ```true``` since ```Boolean(2)``` is ```true```
 15. ```==``` allows type conversion while ```===``` doesn't.
-16. See ```part2-question16.js```.
+16. See **part2-question16.js**.
 17. Return ```[2, 4, 6]```. For every term in ```[1, 2, 3]```, the modified number by the function ```doSomething()```, as ```callback``` in ```modifyArray()```, is deduced and pushed into ```newArr``` in the original order in ```[1, 2, 3]```. Since ```doSomething()``` lets the number multiplied by 2, every term in ```[1, 2, 3]``` is modified by being multiplied by 2.
-18. See ```part2-question18.js```.
+18. See **part2-question18.js**.
 19. 
 ```
 1
